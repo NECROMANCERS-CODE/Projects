@@ -1,35 +1,37 @@
-# brainstorm 
-<------------------------>
-participantes :
-SAURON
-SARUMAN 
-LORD LOOP
-<------>
-|||||||||||
-# NECROMANCERS CODE
-PROJETO 1
-SITE 
+# Brainstorm
 
-ABA PARA LINGUAGENS 
-->
-O QUE ESTOU ESTUDANDO
-PERFIL DESCRITIVO
-PROJETOS EM REPOS PRIVADOS 
-CRIAR ARTIGOS 
-ARTIGO GERAL 
+## Participantes:
+- Sauron
+- Saruman
+- Lord Loop
 
+## Projetos:
 
+### Projeto 1: Necromancers Code - Site
+- Aba para Linguagens
+- O que estou estudando
+- Perfil descritivo
+- Projetos em repositórios privados
+- Criar artigos
+- Artigo geral
 
+### Projeto 2: Sistema de Pontuação
+- Java
+- Spring Boot
+- JPA
+- Thymeleaf
+- MySQL
 
-# CATEGORIAS
-PROJETO NECROMANCERS
-MANIFESTO
--------------------
-projeto 2 SISTEMA DE PONTUAÇÃO
-JAVA  Srpring boot JPA THYMELEAF
-Mysql
-3- # Necr0OS (a partir do LFS)
+### Projeto 3: Necr0OS (a partir do LFS)
+- Sistema To-Do List
+- Back-end Node.js
+- Front-end Vanilla
+- Frameworks: Jest, Travis
+- IBM Cloud deploy
+- Zabbix com dashboard de informações
 
-sistema to do list
-back node front vanila, frameworks jest travis IBM CLOUD deploy
-zabix com dashboard de informações 
+## Categorias:
+- Projeto Necromancers
+- Manifesto
+
+------------------------------------
