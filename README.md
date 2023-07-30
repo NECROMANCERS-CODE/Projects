@@ -16,6 +16,7 @@
 - Artigo geral
 
 ### Projeto 2: Sistema de Pontuação
+assignee: SAURON
 - Java
 - Spring Boot
 - JPA
