@@ -8,6 +8,7 @@
 ## Projetos:
 
 ### Projeto 1: Necromancers Code - Site
+assignee: Lord Loop
 - Aba para Linguagens
 - O que estou estudando
 - Perfil descritivo
